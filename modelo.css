@@ -1,0 +1,37 @@
+body {
+    background: #12124d;
+    color: #20120c;
+    font: normal 15pt arial;
+}
+
+header {
+    color: #c0c0c0;
+    text-align: center;
+}
+
+section {
+    background-color: #e7cfc7;
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 300px;
+   height: auto;
+    margin: auto;
+    box-shadow: 5px 5px 10px #00000086;
+}
+div {
+    text-align: center;
+}
+#resultado{
+    background-color: #b3b3d9;
+    border-radius: 30px;
+    align-self: center;
+}
+#resultado:hover {
+    background-color: #d4d4e8;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
